@@ -1,5 +1,5 @@
 # Poverty & Heart Disease
-The goal of this project is to create an algoirthm that considers poverty and other factors to predict heart disease mortality rate in counties across the United States. 
+The goal of this project is to create an algoirthm that considers poverty and other factors to predict heart disease mortality rate in counties across the United States. Please see the following [video](https://www.youtube.com/watch?time_continue=4&v=poc1eTuJJfc)
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
