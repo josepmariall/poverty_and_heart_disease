@@ -5,8 +5,12 @@ The goal of this project is to create an algoirthm that considers poverty and ot
 I provide the [environment](https://github.com/titoniubo/Canine_classifier/blob/master/cnn_environment.yml) used to run this code.
 
 ## Table of Contents 
-The first file prepares data for 
+The following jupyter notebooks are provided:
+1. Data Preparation
+2. Algorithm Selection and Fine Tunning
+3. Data Visualization
 
+File 1 prepares data for both modeling and visualizations, creating 2 different files one for each purpose.
 
 ### Code of ethics
 
