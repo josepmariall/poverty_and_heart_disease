@@ -9,7 +9,7 @@ The following jupyter notebooks are provided:
 
 File 1 prepares data for both modeling and visualizations, creating 2 different files one for each purpose.
 
-## Code of ethics
+### Code of ethics
 
 This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/Code%20of%20ethics.txt) 
 
