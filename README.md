@@ -3,7 +3,8 @@ The goal of this project is to create an algoirthm that considers poverty and ot
 
 ## Table of Contents 
 The following jupyter notebooks are provided:
-[1. Data Preparation(https://github.com/titoniubo/poverty_and_heart_disease/blob/master/1.%20Data%20Preparation%20.ipynb)
+
+[1. Data Preparation](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/1.%20Data%20Preparation%20.ipynb)
 
 [2. Algorithm Selection](https://github.com/titoniubo/poverty_and_heart_disease/blob/master/2.%20Algorithm%20selection.ipynb)
 
